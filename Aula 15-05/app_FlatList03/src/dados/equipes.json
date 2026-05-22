@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "equipe": "Red Bull Racing",
+    "piloto1": "Max Verstappen",
+    "piloto2": "Sergio Perez",
+    "motor": "Honda",
+    "imagem": "redbull"
+  },
+
+  {
+    "id": "2",
+    "equipe": "Ferrari",
+    "piloto1": "Charles Leclerc",
+    "piloto2": "Lewis Hamilton",
+    "motor": "Ferrari",
+    "imagem": "ferrari"
+  },
+
+  {
+    "id": "3",
+    "equipe": "Mercedes",
+    "piloto1": "George Russell",
+    "piloto2": "Kimi Antonelli",
+    "motor": "Mercedes",
+    "imagem": "mercedes"
+  },
+
+  {
+    "id": "4",
+    "equipe": "McLaren",
+    "piloto1": "Lando Norris",
+    "piloto2": "Oscar Piastri",
+    "motor": "Mercedes",
+    "imagem": "mclaren"
+  },
+
+  {
+    "id": "5",
+    "equipe": "Aston Martin",
+    "piloto1": "Fernando Alonso",
+    "piloto2": "Lance Stroll",
+    "motor": "Mercedes",
+    "imagem": "astonmartin"
+  },
+
+  {
+    "id": "6",
+    "equipe": "Alpine",
+    "piloto1": "Pierre Gasly",
+    "piloto2": "Jack Doohan",
+    "motor": "Renault",
+    "imagem": "alpine"
+  },
+
+  {
+    "id": "7",
+    "equipe": "Haas",
+    "piloto1": "Esteban Ocon",
+    "piloto2": "Oliver Bearman",
+    "motor": "Ferrari",
+    "imagem": "haas"
+  },
+
+  {
+    "id": "8",
+    "equipe": "RB",
+    "piloto1": "Yuki Tsunoda",
+    "piloto2": "Daniel Ricciardo",
+    "motor": "Honda",
+    "imagem": "rb"
+  },
+
+  {
+    "id": "9",
+    "equipe": "Audi",
+    "piloto1": "Nico Hülkenberg",
+    "piloto2": "Gabriel Bortoleto",
+    "motor": "Ferrari",
+    "imagem": "sauber"
+  },
+
+  {
+    "id": "10",
+    "equipe": "Williams",
+    "piloto1": "Alexander Albon",
+    "piloto2": "Carlos Sainz",
+    "motor": "Mercedes",
+    "imagem": "williams"
+  }
+]
